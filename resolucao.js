@@ -119,7 +119,7 @@ function quantityByCategory(data) {
     return stock;
 }
 
-//lendo e guardando o banco de dados fixado
+//lendo e guardando o banco de dados restaurado
 var fixedata = readJson(fixedataname);
 
 //caso a leitura dê certo, realizamos a verificação dos dados
